@@ -1,4 +1,4 @@
-# 🚀 Vajidz - Mern Stack Developer
+# Mern Stack Developer
 
 <p align="center">
   <img src="https://blush.design/api/download?shareUri=yAAezLP1rtuzGYsj&c=Skin_0%7Eedb98a-0.2%7Eb18058&w=800&h=800&fm=png" alt="Developer Illustration" width="200"/>
