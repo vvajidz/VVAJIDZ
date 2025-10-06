@@ -73,9 +73,9 @@
 ---
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=holi&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=holi" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=holi" width="90%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" alt="GitHub Streak"/>
 </div>
 ---
 
