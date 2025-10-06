@@ -74,11 +74,10 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" width="90%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=transparent&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=dark&bg_color=transparent&title_color=58a6ff&text_color=ffffff" width="41%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=dark&background=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border=58a6ff" width="90%" alt="GitHub Streak"/>
 </div>
-
 ---
 
 ## 🎯 Current Focus
