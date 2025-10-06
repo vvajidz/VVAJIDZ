@@ -81,7 +81,7 @@
 
 ## 🎯 Current Focus
 <div align="center">
-<ul>
+<ul type="none">
   <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
   <li>💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects</li>
   <li>🚀 Building scalable applications with modern technologies</li>
@@ -94,7 +94,7 @@
 ## 📫 Let's Connect & Collaborate
 <div align="center">
 💬 Always open to:
-<ul>
+<ul type="none">
   <li>New project opportunities & collaborations</li>
   <li>Code reviews & technical discussions</li>
   <li>Full-time developer roles</li>
