@@ -1,8 +1,9 @@
 # ABDUL VAJID
 
 <p align="center">
-  <img src="https://pin.it/24Og4FnYG" width="100%"/>
+  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%" alt="Animated GIF Banner"/>
 </p>
+
 
 
 <p align="center">
