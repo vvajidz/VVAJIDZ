@@ -1,8 +1,9 @@
 # ABDUL VAJID
 
 <p align="center">
-  <img src="https://blush.design/api/download?shareUri=yAAezLP1rtuzGYsj&c=Skin_0%7Eedb98a-0.2%7Eb18058&w=800&h=800&fm=png" alt="Developer Illustration" width="200"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;CEH+Certified;" alt="Typing SVG" />
