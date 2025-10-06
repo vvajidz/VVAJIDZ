@@ -1,17 +1,17 @@
 # 🚀 Vajidz - Full Stack Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="200"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="200"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;CEH+Certified;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;CEH+Certified;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**YOUR_EMAIL@example.com**)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/**YOUR_TWITTER_HANDLE**)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](**https://YOUR_PORTFOLIO_URL**)
 </div>
 
 ---
@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em>
+  <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em>
 </p>
 
 <div align="center">
@@ -69,15 +69,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" alt="Vajidz's GitHub Stats" />
-  </a>
-  <a href="https://github.com/">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" alt="Vajidz's Top Languages" />
-  </a>
-  <a href="https://github.com/">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" alt="GitHub Streak" />
-  </a>
+  <a href="https://github.com/**YOUR_GITHUB_USERNAME**">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=**YOUR_GITHUB_USERNAME**&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" alt="Vajidz's GitHub Stats" />
+  </a>
+  <a href="https://github.com/**YOUR_GITHUB_USERNAME**">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_GITHUB_USERNAME**&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" alt="Vajidz's Top Languages" />
+  </a>
+  <a href="https://github.com/**YOUR_GITHUB_USERNAME**">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=**YOUR_GITHUB_USERNAME**&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -105,14 +105,14 @@
 - Freelance web development projects
 
 📧 Best ways to reach me:
-- [LinkedIn](https://www.linkedin.com/in/)
-- [Email](mailto:)
-- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
+- [Email](mailto:**YOUR_EMAIL@example.com**)
+- [Twitter](https://twitter.com/**YOUR_TWITTER_HANDLE**)
 
 <div align="center">
 ⭐ Feel free to explore my repositories and don't forget to star your favorites!
 <br>
-[![Profile Views](https://komarev.com/ghpvc/?username=&color=00ff88&style=for-the-badge)](https://github.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=**YOUR_GITHUB_USERNAME**&color=00ff88&style=for-the-badge)](https://github.com/**YOUR_GITHUB_USERNAME**)
 </div>
 
 ---
