@@ -107,13 +107,14 @@
 <a href="https://www.linkedin.com/in/abdul--vajid">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
 </a>
-
 <a href="mailto:vvajidz56@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
 </a>
 </div>
 <div align="center">
+  
 <br>
+
 ⭐ Explore my repos & star your favorites!
 <img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=flat" alt="Profile Views"/>
 </div>
