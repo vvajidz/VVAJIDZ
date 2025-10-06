@@ -72,7 +72,6 @@
 
 ---
 ## 📊 GitHub Analytics
-## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
@@ -82,30 +81,42 @@
 
 ## 🎯 Current Focus
 <div align="center">
-🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles  
-💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects  
-🚀 Building scalable applications with modern technologies  
-🔒 Exploring <strong>cybersecurity and ethical hacking</strong> methodologies
+<ul>
+  <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
+  <li>💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects</li>
+  <li>🚀 Building scalable applications with modern technologies</li>
+  <li>🔒 Exploring <strong>cybersecurity and ethical hacking</strong> methodologies</li>
+</ul>
 </div>
+
+---
 
 ---
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
-💬 Always open to:  
-- New project opportunities & collaborations  
-- Code reviews & technical discussions  
-- Full-time developer roles  
-- Freelance web development projects  
+💬 Always open to:
+- New project opportunities & collaborations
+- Code reviews & technical discussions
+- Full-time developer roles
+- Freelance web development projects
 
-📧 Reach me via:  
-<a href="https://www.linkedin.com/in/abdul--vajid"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:vvajidz56@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+<br>
+
+📧 Reach me via:
+<br>
+<a href="https://www.linkedin.com/in/abdul--vajid">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:vvajidz56@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
+</a>
 </div>
 
 <div align="center">
-⭐ Explore my repos & star your favorites!  
-<img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=for-the-badge" alt="Profile Views"/>
+<br>
+⭐ Explore my repos & star your favorites!
+<img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=flat" alt="Profile Views"/>
 </div>
 
 ---
