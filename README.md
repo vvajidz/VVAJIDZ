@@ -42,7 +42,7 @@
 
 ### 💻 Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/%20React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=000000&color=ffffff" alt="React"/>
+  <img src="https://img.shields.io/badge/%20React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
   <img src="https://img.shields.io/badge/%20Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
   <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=000000&color=ffffff" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=000000&color=ffffff" alt="TypeScript"/>
