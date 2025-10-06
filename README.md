@@ -1,22 +1,19 @@
-# 🚀 Vajidz - Full Stack Developer
+# 🚀 Vajidz - Mern Stack Developer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;CEH+Certified;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;CEH+Certified;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/abdul--vajid">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:vvajidz56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
@@ -77,9 +74,9 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" width="90%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" width="41%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" width="90%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -103,14 +100,13 @@
 - Freelance web development projects  
 
 📧 Reach me via:  
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://www.linkedin.com/in/abdul--vajid"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:vvajidz56@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </div>
 
 <div align="center">
 ⭐ Explore my repos & star your favorites!  
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff88&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
