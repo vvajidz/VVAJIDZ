@@ -20,7 +20,7 @@
   </a>
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 <div align="center">
@@ -33,9 +33,9 @@
   🎮 Passions: <strong>Coding, Gaming, Cybersecurity Research</strong>
 </div>
 
----
 
-## 🛠 Tech Stack & Tools
+
+<h1 align="center">Tech Stack & Tools</h1>
 
 ### 💻 Frontend Development
 <div align="center">
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000&color=ffffff" alt="Tailwind CSS"/>
 </div>
 
-### 🔧 Backend & Database
+<h1 align="center">Backend & Database</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=000000&color=ffffff" alt="Firebase"/>
 </div>
 
-### ⚡ Tools & Technologies
+<h1 align="center">Tools & Technologies</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
@@ -67,9 +67,9 @@
   <img src="https://img.shields.io/badge/CEH_Certified-FF6B6B?style=flat&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
 </div>
 
----
 
-## 📊 GitHub Analytics
+
+<h1 align="center"> GitHub Analytics</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="45%" alt="Top Languages"/>
@@ -77,9 +77,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" alt="GitHub Streak"/>
 </div>
 
----
 
-## 🎯 Current Focus
+
+<h1 align="center"> Current Focus</h1>
 <div align="center">
 <ul type="none">
   <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
@@ -89,9 +89,8 @@
 </ul>
 </div>
 
----
 
-## 📫 Let's Connect & Collaborate
+<h1 align="center"> Let's Connect & Collaborate</h1>
 <div align="center">
 💬 Always open to:
 <ul type="none">
@@ -111,7 +110,6 @@
 </a>
 </div>
 
----
 
 <div align="center">
 ⭐ Explore my repos & star your favorites!
