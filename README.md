@@ -22,8 +22,8 @@
 
 
 
-## 👨‍💻 About Me
-<div align="center">
+<h1 align="center"> About Me</h1>
+<div>
   <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em>
   <br><br>
   📍 Based in: <strong>Malappuram, Kerala, India</strong> | 🎓 <strong>Software Engineering Student</strong> | <strong>CEH Certified Professional</strong>
@@ -37,8 +37,8 @@
 
 <h1 align="center">Tech Stack & Tools</h1>
 
-### 💻 Frontend Development
-<div align="center">
+<h1 align="center">Frontend Development</h1>
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=ffffff" alt="JavaScript"/>
@@ -49,7 +49,7 @@
 </div>
 
 <h1 align="center">Backend & Database</h1>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=000000&color=ffffff" alt="MongoDB"/>
@@ -58,7 +58,7 @@
 </div>
 
 <h1 align="center">Tools & Technologies</h1>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000&color=ffffff" alt="VS Code"/>
@@ -70,7 +70,7 @@
 
 
 <h1 align="center"> GitHub Analytics</h1>
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="45%" alt="Top Languages"/>
   <br>
@@ -80,7 +80,7 @@
 
 
 <h1 align="center"> Current Focus</h1>
-<div align="center">
+<div>
 <ul type="none">
   <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
   <li>💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects</li>
@@ -91,7 +91,7 @@
 
 
 <h1 align="center"> Let's Connect & Collaborate</h1>
-<div align="center">
+<div>
 💬 Always open to:
 <ul type="none">
   <li>New project opportunities & collaborations</li>
