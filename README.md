@@ -42,32 +42,32 @@
 
 ### 💻 Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat&logo=tailwind-css&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=000000&color=ffffff" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=000000&color=ffffff" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=000000&color=ffffff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000&color=ffffff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=000000&color=ffffff" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=000000&color=ffffff" alt="Tailwind CSS"/>
 </div>
 
 ### 🔧 Backend & Database
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat&logo=express&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat&logo=firebase&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000&color=ffffff" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000&color=ffffff" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=000000&color=ffffff" alt="Firebase"/>
 </div>
 
 ### ⚡ Tools & Technologies
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visual-studio-code&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="Linux"/>
-  <img src="https://img.shields.io/badge/CEH_Certified-0d1117?style=flat&logo=security&logoColor=00ff88&labelColor=0d1117&color=00ff88" alt="CEH"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=000000&color=ffffff" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=000000&color=ffffff" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=000000&color=ffffff" alt="Linux"/>
+  <img src="https://img.shields.io/badge/CEH_Certified-FF6B6B?style=flat-square&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
 </div>
 
 ---
