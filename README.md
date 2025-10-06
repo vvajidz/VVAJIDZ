@@ -1,4 +1,12 @@
-<h1 align="center">ABDUL VAJID</h1>
+<!-- ABDUL VAJID Heading -->
+<div align="center">
+  <svg width="800" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="50" fill="none" stroke="#00FF00" stroke-width="1.5">
+      ABDUL VAJID
+    </text>
+  </svg>
+</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" width="100%" alt="Animated GIF Banner"/>
@@ -20,9 +28,16 @@
   </a>
 </div>
 
+<!-- About Me Heading -->
+<div align="center">
+  <svg width="800" height="80">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="40" fill="none" stroke="#00FF00" stroke-width="1.5">
+      About Me
+    </text>
+  </svg>
+</div>
 
-
-<h1 align="center"> About Me</h1>
 <div>
   <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em>
   <br><br>
@@ -33,11 +48,26 @@
   🎮 Passions: <strong>Coding, Gaming, Cybersecurity Research</strong>
 </div>
 
+<!-- Tech Stack & Tools Heading -->
+<div align="center">
+  <svg width="800" height="80">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="40" fill="none" stroke="#00FF00" stroke-width="1.5">
+      Tech Stack & Tools
+    </text>
+  </svg>
+</div>
 
+<!-- Frontend Development -->
+<div align="center">
+  <svg width="800" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="36" fill="none" stroke="#00FF00" stroke-width="1.5">
+      Frontend Development
+    </text>
+  </svg>
+</div>
 
-<h1 align="center">Tech Stack & Tools</h1>
-
-<h1 align="center">Frontend Development</h1>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
@@ -48,7 +78,16 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000&color=ffffff" alt="Tailwind CSS"/>
 </div>
 
-<h1 align="center">Backend & Database</h1>
+<!-- Backend & Database -->
+<div align="center">
+  <svg width="800" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="36" fill="none" stroke="#00FF00" stroke-width="1.5">
+      Backend & Database
+    </text>
+  </svg>
+</div>
+
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
@@ -57,7 +96,16 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=000000&color=ffffff" alt="Firebase"/>
 </div>
 
-<h1 align="center">Tools & Technologies</h1>
+<!-- Tools & Technologies -->
+<div align="center">
+  <svg width="800" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="36" fill="none" stroke="#00FF00" stroke-width="1.5">
+      Tools & Technologies
+    </text>
+  </svg>
+</div>
+
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
@@ -67,9 +115,16 @@
   <img src="https://img.shields.io/badge/CEH_Certified-FF6B6B?style=flat&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
 </div>
 
+<!-- GitHub Analytics -->
+<div align="center">
+  <svg width="800" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="36" fill="none" stroke="#00FF00" stroke-width="1.5">
+      GitHub Analytics
+    </text>
+  </svg>
+</div>
 
-
-<h1 align="center"> GitHub Analytics</h1>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="45%" alt="Top Languages"/>
@@ -77,9 +132,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" alt="GitHub Streak"/>
 </div>
 
+<!-- Current Focus -->
+<div align="center">
+  <svg width="800" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="36" fill="none" stroke="#00FF00" stroke-width="1.5">
+      Current Focus
+    </text>
+  </svg>
+</div>
 
-
-<h1 align="center"> Current Focus</h1>
 <div>
 <ul type="none">
   <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
@@ -89,8 +151,16 @@
 </ul>
 </div>
 
+<!-- Connect & Collaborate -->
+<div align="center">
+  <svg width="800" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Radley, serif" font-size="36" fill="none" stroke="#00FF00" stroke-width="1.5">
+      Let's Connect & Collaborate
+    </text>
+  </svg>
+</div>
 
-<h1 align="center"> Let's Connect & Collaborate</h1>
 <div>
 💬 Always open to:
 <ul type="none">
@@ -109,7 +179,6 @@
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
 </a>
 </div>
-
 
 <div align="center">
 ⭐ Explore my repos & star your favorites!
