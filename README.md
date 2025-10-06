@@ -91,7 +91,6 @@
 
 ---
 
----
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
@@ -108,6 +107,8 @@
 <a href="https://www.linkedin.com/in/abdul--vajid">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
 </a>
+
+
 <a href="mailto:vvajidz56@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
 </a>
