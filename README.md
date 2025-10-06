@@ -1,7 +1,7 @@
 # ABDUL VAJID
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%"/>
+  <img src="https://pin.it/24Og4FnYG" width="100%"/>
 </p>
 
 
