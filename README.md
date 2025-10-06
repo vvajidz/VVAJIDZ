@@ -1,83 +1,82 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="200"/>
-</p>
+🚀 Vajidz - Full Stack Developer
+<p align="center"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="200"/> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;CEH+Certified;Problem+Solver" alt="Typing SVG" /> </p><div align="center">
+https://img.shields.io/badge/LinkedIn-Connect-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-Contact-%2523D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Twitter-Follow-%25231DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Portfolio-Visit-%2523000000?style=for-the-badge&logo=google-chrome&logoColor=white
 
-<h1 align="center">👋 Hello World! I'm Vajidz</h1>
+</div>
+👨‍💻 About Me
+<p align="center"> <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em> </p><div align="center">
+📍 Based in: Malappuram, Kerala, India
+🎓 Software Engineering Student | CEH Certified Professional
+💼 Currently: Open to Full-time Opportunities & Freelancing
+🎮 Passions: Coding, Gaming, Cybersecurity Research
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</p>
+</div>
+🛠️ Tech Stack & Tools
+💻 Frontend Development
+<div align="center">
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
----
+</div>
+🔧 Backend & Database
+<div align="center">
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 
-## 👨‍💻 About Me
+</div>
+⚡ Tools & Technologies
+<div align="center">
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/CEH_Certified-FF6B6B?style=for-the-badge&logo=security&logoColor=white
 
-* **Full Stack Developer** specializing in the **MERN stack**.
-* Software Engineering Student & **CEH Certified** professional.
-* Currently based in **Malappuram, Kerala, India**.
-* Passionate about turning complex problems into elegant, efficient, and scalable web applications.
-* When I'm not coding, you can find me **gaming** or **researching** the latest advancements in tech and security.
+</div>
+📊 GitHub Analytics
+<div align="center"><!-- GitHub Stats Cards --><a href="https://github.com/YOUR_GITHUB_USERNAME"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" alt="Vajidz's GitHub Stats" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" alt="Vajidz's Top Languages" /> </a><!-- GitHub Streak Stats --><a href="https://github.com/YOUR_GITHUB_USERNAME"> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" alt="GitHub Streak" /> </a></div>
+🎯 Current Focus
+<div align="center">
+🔥 Open to new job opportunities and exciting full-time roles
+💼 Currently Freelancing - Taking on dynamic web development projects
+🚀 Building scalable applications with modern technologies
+🔒 Exploring cybersecurity and ethical hacking methodologies
 
-### 🎯 Current Focus
+</div>
+📫 Let's Connect & Collaborate
+<div align="center">
+💬 I'm always interested in:
+New project opportunities and collaborations
 
-* **Open to new job opportunities** and exciting full-time roles.
-* Currently **Freelancing** and taking on dynamic web development projects.
+Code reviews and technical discussions
 
----
+Full-time developer roles
 
-## 🛠️ Tech Stack & Tools
+Freelance web development projects
 
-A glimpse of the technologies I work with daily:
+📧 Best ways to reach me:
+LinkedIn: Professional networking and opportunities
 
-### 🌐 Frontend
+Email: Direct communication for projects
 
-| Technology | Badge |
-| :--- | :--- |
-| **React** | <img src="https://skillicons.dev/icons?i=react" alt="React" /> |
-| **Next.js** | <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /> |
-| **JavaScript** | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> |
-| **HTML5** | <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> |
-| **CSS3** | <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> |
-| **Tailwind CSS** | <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /> |
+Twitter: Tech insights and quick chats
 
-### ⚙️ Backend & Database
+</div><div align="center">
+⭐ Feel free to explore my repositories and don't forget to star your favorites!
 
-| Technology | Badge |
-| :--- | :--- |
-| **Node.js** | <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> |
-| **Express.js** | <img src="https://skillicons.dev/icons?i=express" alt="Express.js" /> |
-| **MongoDB** | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> |
+https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff88&style=for-the-badge
 
-### 🗄️ Version Control & Others
-
-| Technology | Badge |
-| :--- | :--- |
-| **GitHub** | <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> |
-| **VS Code** | <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> |
-| **CEH** | <img src="https://img.shields.io/badge/Certification-CEH-red?style=flat-square&logo=linux&labelColor=333" alt="CEH Certification" /> |
-
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Vajidz's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Vajidz's Top Languages" />
-</p>
-
----
-
-## 💬 Get In Touch
-
-* **Collaboration:** I'm always open to discussing new projects, code reviews, or potential job roles.
-* **Best Contact:** Reach out via **LinkedIn** or send me an **email**.
-* Feel free to explore my repositories!
+</div>
+<p align="center"> <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em> </p>
