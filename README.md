@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%20React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
   <img src="https://img.shields.io/badge/%20Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=000000&color=ffffff" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=ffffff" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=000000&color=ffffff" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/%20HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=000000&color=ffffff" alt="HTML5"/>
   <img src="https://img.shields.io/badge/%20CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=000000&color=ffffff" alt="CSS3"/>
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/%20Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
   <img src="https://img.shields.io/badge/%20MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=000000&color=ffffff" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=000000&color=ffffff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/%20Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&labelColor=000000&color=ffffff" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/%20Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=000000&color=ffffff" alt="Firebase"/>
 </div>
 
 ### ⚡ Tools & Technologies
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/%20GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
   <img src="https://img.shields.io/badge/%20VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000&color=ffffff" alt="VS Code"/>
   <img src="https://img.shields.io/badge/%20Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=000000&color=ffffff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/%20Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=000000&color=ffffff" alt="Linux"/>
+  <img src="https://img.shields.io/badge/%20Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=000000&color=ffffff" alt="Linux"/>
   <img src="https://img.shields.io/badge/%20CEH_Certified-FF6B6B?style=flat&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
 </div>
 
