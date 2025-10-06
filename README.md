@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;CEH+Certified;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;CEH+Certified;" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul--vajid">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vvajidz56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff" alt="Portfolio Badge"/>
   </a>
 </div>
 
