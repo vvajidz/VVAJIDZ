@@ -2,15 +2,16 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="200"/>
-  <br>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;CEH+Certified;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://)
 </div>
 
 ---
@@ -22,10 +23,11 @@
 </p>
 
 <div align="center">
-📍 Based in: Malappuram, Kerala, India  
-🎓 Software Engineering Student | CEH Certified Professional  
-💼 Currently: Open to Full-time Opportunities & Freelancing  
-🎮 Passions: Coding, Gaming, Cybersecurity Research  
+📍 Based in: **Malappuram, Kerala, India** | 🎓 **Software Engineering Student** | **CEH Certified Professional**
+<br>
+💼 Currently: **Open to Full-time Opportunities & Freelancing**
+<br>
+🎮 Passions: **Coding, Gaming, Cybersecurity Research**
 </div>
 
 ---
@@ -55,7 +57,7 @@
 ### ⚡ Tools & Technologies
 <div align="center">
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -67,14 +69,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" alt="Vajidz's GitHub Stats" />
+  <a href="https://github.com/">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88" alt="Vajidz's GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" alt="Vajidz's Top Languages" />
+  <a href="https://github.com/">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff88" alt="Vajidz's Top Languages" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" alt="GitHub Streak" />
+  <a href="https://github.com/">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -83,32 +85,34 @@
 ## 🎯 Current Focus
 
 <div align="center">
-🔥 Open to new job opportunities and exciting full-time roles  
-💼 Currently Freelancing - Taking on dynamic web development projects  
-🚀 Building scalable applications with modern technologies  
-🔒 Exploring cybersecurity and ethical hacking methodologies
+🔥 **Open to new job opportunities** and exciting full-time roles
+<br>
+💼 Currently **Freelancing** - Taking on dynamic web development projects
+<br>
+🚀 Building scalable applications with modern technologies
+<br>
+🔒 Exploring **cybersecurity and ethical hacking** methodologies
 </div>
 
 ---
 
 ## 📫 Let's Connect & Collaborate
 
-<div align="center">
-💬 I'm always interested in:  
-- New project opportunities and collaborations  
-- Code reviews and technical discussions  
-- Full-time developer roles  
-- Freelance web development projects  
+💬 I'm always interested in:
+- New project opportunities and collaborations
+- Code reviews and technical discussions
+- Full-time developer roles
+- Freelance web development projects
 
-📧 Best ways to reach me:  
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-- [Email](mailto:YOUR_EMAIL)  
-- [Twitter](https://twitter.com/YOUR_TWITTER)  
-</div>
+📧 Best ways to reach me:
+- [LinkedIn](https://www.linkedin.com/in/)
+- [Email](mailto:)
+- [Twitter](https://twitter.com/)
 
 <div align="center">
-⭐ Feel free to explore my repositories and don't forget to star your favorites!  
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff88&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+⭐ Feel free to explore my repositories and don't forget to star your favorites!
+<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=&color=00ff88&style=for-the-badge)](https://github.com/)
 </div>
 
 ---
