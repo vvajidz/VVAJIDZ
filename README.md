@@ -1,7 +1,7 @@
 <h1 align="center" hight="20px" width="2000px" >ABDUL VAJID</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ed/94/d6/ed94d6ae89ca01711720e3d0d96f49ed.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
+  <img src="https://i.pinimg.com/1200x/4d/00/0c/4d000c26dc4e702ee3811487fb452c47.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
 
 
@@ -37,10 +37,6 @@
 <br>
 🎮 Passions: <strong>Coding, Gaming, Cybersecurity Research</strong>
 </div>
-<br>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
-</p>
 
 ## 🛠 Tech Stack & Tools
 
@@ -127,4 +123,9 @@
 
 <p align="center">
 <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+</p>
+
+<br>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/c3/90/3c/c3903c0a561996c8764021e8013d532d.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
