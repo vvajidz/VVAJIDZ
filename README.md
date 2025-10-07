@@ -1,7 +1,7 @@
 <h1 align="center" hight="20px" width="2000px" >ABDUL VAJID</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
+  <img src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
 
 
