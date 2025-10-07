@@ -1,7 +1,7 @@
-# ABDUL VAJID
+<h1 align="center" hight="20px" width="2000px" >ABDUL VAJID</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" width="100%" alt="Animated GIF Banner"/>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
 
 
@@ -37,8 +37,10 @@
 <br>
 🎮 Passions: <strong>Coding, Gaming, Cybersecurity Research</strong>
 </div>
-
----
+<br>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
+</p>
 
 ## 🛠 Tech Stack & Tools
 
